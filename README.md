@@ -3,5 +3,5 @@
 Final project for class CSCI5561 - Computer Vision
 
 Team member:
-1. Bhudhsn Ravikumar
+1. Bhushan Ravikumar
 2. Santo Santhosh
